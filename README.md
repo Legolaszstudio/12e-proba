@@ -10,4 +10,4 @@ Ezt módosítom.
 
 Ez a stage után van
 
-Nagyon dologozok a vizsgamunkán, eskü.
+Már pedig lila lesz!
