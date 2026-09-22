@@ -10,4 +10,4 @@ Ezt módosítom.
 
 Ez a stage után van
 
-Módosítottam ezt a fájlt a `modify-branch`-en
+Nagyon dologozok a vizsgamunkán, eskü.
