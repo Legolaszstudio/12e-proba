@@ -10,4 +10,5 @@ Ezt módosítom.
 
 Ez a stage után van
 
-Módosítottam ezt a fájlt a `modify-branch`-en
+Módosítottam ezt a fájlt a `main`-en
+És ezt is a main-en írtam.
