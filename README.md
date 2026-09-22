@@ -6,4 +6,6 @@ Ez egy GitHub próba.
 **Vastag**
 ~~Áthúzott~~
 
-Ez a stage után van.
+Ezt módosítom.
+
+Ez a stage után van
